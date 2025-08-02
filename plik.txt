@@ -1,2 +1,3 @@
 Hello Git
 Nowa funkcjonalnosc w feature1
+To jest zmiana do PR-a

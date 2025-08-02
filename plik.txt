@@ -1,1 +1,2 @@
 Hello Git
+Nowa funkcjonalnosc w feature1
